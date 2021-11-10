@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
-import sys
-import time
+import sys,time
 import mss
 import threading
 from pynput.mouse import Button, Controller
